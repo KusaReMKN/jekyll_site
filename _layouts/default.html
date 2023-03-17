@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="{{ site.lang | default: "en-US" }}">
+  <head>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta charset="utf-8">
+    <title>{{ page.title }} - {{ site.title }}</title>
+    <link rel="stylesheet" href="{{ "/assets/css/main.css" | relative_url }}">
+		<link rel="icon" href="/favicon.ico">
+  </head>
+  <body>
+		<div class="header">
+			<img class="header-icon" src="/assets/img/icon.jpg">
+			<h1 class="header-title">yank.nvim</h1>
+
+			<ul class="header-nav">
+				<li class="header-item"><a href="{{ site.baseurl }}/">Home</a></li>
+				<li class="header-item"><a href="{{ site.baseurl }}/profile">Profile</a></li>
+				<li class="header-item"><a href="{{ site.baseurl }}/links">Links</a></li>
+			</ul>
+		</div>
+		
+		<div class="content">
+			{{ content }}
+		</div>
+  </body>
+</html>
