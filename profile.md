@@ -16,7 +16,7 @@ title: "Profile"
 - 現状Air Linkが若干不安定なのでたまに固まります、そのときは少しまっててください
 
 ## Contacts
-- Twitter: [yanknvim](https://twitter.com/yanknvim)
+- Twitter: [yanknvim](https://twitter.com/yank_nvim)
 - Github: [yanknvim](https://github.com/yanknvim)
 - VRChat: [yanknvim](https://vrchat.com/home/user/usr_81dd1e49-4418-4bd5-a315-9790e94c240d)
 - Discord: yank.nvim#3947
