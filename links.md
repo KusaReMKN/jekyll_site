@@ -12,6 +12,9 @@ title: "Links"
 
 
 <a href="https://sasakulab.com/"><img src="assets/img/sasakura_banner.png" height="60"></a>
+
+
+<a href="https://kusaremkn.com/"><img src="assets/img/kusaremkn_banner.webp" height="60"></a>
 ### 勝手リンク
 ないよ
 
