@@ -1,0 +1,56 @@
+==================================================================
+https://keybase.io/yanknvim
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://yank-nvim.com
+  * I am yanknvim (https://keybase.io/yanknvim) on keybase.
+  * I have a public key ASA4wlkXFLivo_yoiHOAx_4cwQxrRgye8uuuPJCu237IRwo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "012038c2591714b8afa3fca8887380c7fe1cc10c6b460c9ef2ebae3c90aedb7ec8470a",
+      "host": "keybase.io",
+      "kid": "012038c2591714b8afa3fca8887380c7fe1cc10c6b460c9ef2ebae3c90aedb7ec8470a",
+      "uid": "b33be2128256a52963dabeeb5a424a19",
+      "username": "yanknvim"
+    },
+    "merkle_root": {
+      "ctime": 1679543083,
+      "hash": "e70f83bff293897ad0f0663873532dbb2b699eb99703984998c9c9e1513d21c669b4c147c81c9333baa3b93f39ca365b579834c54ef500a2a26e1ef20fadcf86",
+      "hash_meta": "2a1195e692f80c10f8e9f3645d3bd96eb4842af0cdfa2b92a6e5f4d8e87847ca",
+      "seqno": 24236485
+    },
+    "service": {
+      "entropy": "hU5+tonM+VQP533OPP+DdGXo",
+      "hostname": "yank-nvim.com",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "6.0.4"
+  },
+  "ctime": 1679543121,
+  "expire_in": 504576000,
+  "prev": "26da7a09600c05c296441979f5028727bf6bb185ed0a6102cba5796abd9f4dbc",
+  "seqno": 6,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgOMJZFxS4r6P8qIhzgMf+HMEMa0YMnvLrrjyQrtt+yEcKp3BheWxvYWTESpcCBsQgJtp6CWAMBcKWRBl59QKHJ79rsYXtCmECy6V5ar2fTbzEIMrqR/O0i9I5I7hx1zUR0EItKjq0WZu1OoFTSgGitIO1AgHCo3NpZ8RAe6Cl3RSx+a2b6X63RTva2MxqlSBXt6d57fcGwzNjZVJ5mqksflMz5lx7UO4oIO8xAx04f0LdV4ScHOLdwp5pCqhzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIMp9+QaGigaKggU0ppozB9YsgzdlDttYyh+PTYvJTKuLo3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/yanknvim
+
+==================================================================
