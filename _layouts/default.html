@@ -9,18 +9,21 @@
   </head>
   <body>
 		<div class="header">
-			<img class="header-icon" src="/assets/img/icon.jpg">
-			<h1 class="header-title">yank.nvim</h1>
-
-			<ul class="header-nav">
+			<div class="header-title-inner">
+				<img class="header-icon" src="/assets/img/icon.jpg">
+				<h1 class="header-title">yank.nvim</h1>
+			</div>
+			
+			<ul class="header-list">
 				<li class="header-item"><a href="{{ site.baseurl }}/">Home</a></li>
 				<li class="header-item"><a href="{{ site.baseurl }}/profile">Profile</a></li>
 				<li class="header-item"><a href="{{ site.baseurl }}/links">Links</a></li>
 				<li class="header-item"><a href="{{ site.baseurl }}/apps">Apps</a></li>
 				<li class="header-item"><a href="{{ site.baseurl }}/blog">Blog</a></li>
 			</ul>
+	
 		</div>
-		
+			
 		<div class="content">
 			{{ content }}
 		</div>
